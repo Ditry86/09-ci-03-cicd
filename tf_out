@@ -1,0 +1,8 @@
+external_ip_address = {
+  "nexus" = "158.160.60.181"
+  "sonar" = "51.250.89.153"
+}
+local_ip_address = {
+  "nexus" = "192.168.10.22"
+  "sonar" = "192.168.10.4"
+}
