@@ -6,6 +6,7 @@ def get_square(numb):
 def print_numb(numb):
     print("Number is {}".format(numb))
 
+
 index = 0
 while (index < 10):
     index = increment(index)
